@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(to bottom, #0f0c29, #302663, #24243e);
+    color: #ffffff;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #b62626;
+}
